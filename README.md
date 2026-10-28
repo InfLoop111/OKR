@@ -34,8 +34,6 @@
 
 ### Final-session performance
 
-**mAP (%) ↑.** Results from Tables 1 and 3 of the [paper](https://arxiv.org/pdf/2607.17340#page=11).
-
 | Method | Pascal VOC series · Session 4 | BDD100K series · Session 3 | VOC-C series · Session 5 |
 | :--- | ---: | ---: | ---: |
 | LDB | 56.8 | 51.1 | 50.7 |
@@ -44,13 +42,6 @@
 
 OKR improves over LDB + SOYO by **+5.6 / +6.5 mAP points** on VOC / BDD100K, and over LDB by **+10.3** on VOC-C. “—” means not reported in the cited comparison.
 
-### Performance across incremental sessions
-
-<p align="center">
-  <img src="assets/session-performance.png" alt="Original Figure 4: mAP over incremental sessions on Pascal VOC and BDD100K" width="820">
-</p>
-
-*Session-wise comparison (Figure 4). Figures reproduced from the paper; values are reported results.*
 
 ## Release status
 
