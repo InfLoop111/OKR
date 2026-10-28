@@ -16,10 +16,9 @@
 **Adapt to new domains while preserving previously learned knowledge.** OKR combines domain-specific low-rank adaptation, orthogonal gradient refreshing, and semantic consistency for exemplar-free domain-incremental object detection.
 
 <p align="center">
-  <img src="assets/overview.png" alt="OKR concept: domain-specific LoRA branches, orthogonal gradient updates, and cross-domain performance" width="100%">
+  <img src="assets/overview.png" alt="OKR concept: domain-specific LoRA branches, orthogonal gradient updates, and cross-domain performance" width="80%">
 </p>
 
-*Concept overview and cross-domain comparison (Figure 1).* 
 
 ## Method
 
