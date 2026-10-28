@@ -1,7 +1,5 @@
 <div align="center">
 
-# OKR
-
 ### Orthogonal Knowledge Refreshing for Domain-Incremental Object Detection
 
 **European Conference on Computer Vision · ECCV 2026**
