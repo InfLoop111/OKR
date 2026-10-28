@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper below."
+type: article
+title: "Orthogonal Knowledge Refreshing for Domain-Incremental Object Detection"
+authors:
+  - family-names: Zhang
+    given-names: Aoting
+  - family-names: Yang
+    given-names: Dongbao
+  - family-names: Liu
+    given-names: Chang
+  - family-names: Hong
+    given-names: Xiaopeng
+  - family-names: Ma
+    given-names: Can
+  - family-names: Zhou
+    given-names: Yu
+year: 2026
+date-released: 2026-07-19
+doi: 10.48550/arXiv.2607.17340
+url: "https://arxiv.org/abs/2607.17340"
+repository-code: "https://github.com/InfLoop111/OKR"
