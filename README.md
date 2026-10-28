@@ -21,16 +21,14 @@
 
 
 ## Method
-
-<p align="center">
-  <img src="assets/framework.png" alt="OKR architecture with low-rank subspace expansion, gradient-based orthogonal refreshing, and topology-aware consistency" width="100%">
-</p>
-
-*OKR framework (Figure 3).* 
-
 - **Low-rank subspace expansion:** add a dedicated LoRA branch for each domain and fuse branches for prediction.
 - **Orthogonal refreshing:** constrain new gradient updates relative to the approximated historical subspace.
 - **Topology-aware consistency:** align class-prototype structures across domains.
+<p align="center">
+  <img src="assets/framework.png" alt="OKR architecture with low-rank subspace expansion, gradient-based orthogonal refreshing, and topology-aware consistency" width="80%">
+</p>
+
+
 
 ## Results
 
